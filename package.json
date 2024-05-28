@@ -1,0 +1,14 @@
+{
+  "name": "fastify-todos",
+  "version": "1.0.0",
+  "description": "A todo backend built using fastify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karthik M",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.27.0"
+  }
+}
